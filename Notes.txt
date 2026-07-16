@@ -1,0 +1,112 @@
+1. create a new folder
+
+2. open it in vs code
+
+3. create a new venv
+python -m venv venv
+
+4. activate venv
+venv\Scripts\Activate
+
+5. create the requirements.txt
+
+6. install packages from requirements.txt
+pip install -r requirements.txt
+
+7. verify LangChain installation
+
+
+
+pip install virtualenv
+
+python.exe -m pip install --upgrade pip
+
+
+
+
+
+
+
+
+newwww
+
+C:\Python311\python.exe -m venv venv
+
+venv\Scripts\Activate
+
+
+3.EmbeddedModels
+pip install sentence-transformers
+
+
+
+Lybraryis
+
+
+# NVIDIA AI Endpoints Integration 
+pip install langchain-nvidia-ai-endpoints
+
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+#pydantic
+pip install pydantic
+
+#streamlit
+python -m pip install streamlit
+
+pip install streamlit --upgrade
+
+streamlit run 4.Prompts/2_prompt_ui_hf.py
+
+#install torch
+.\venv\Scripts\activate
+python -m pip install torch torchvision torchaudio
+
+
+
+runnnn
+
+python 1.LLMs/1_llm_demo.py
+
+
+python 2.ChatModels/3_chatmodel_google.py
+
+python 2.ChatModels/4_chatmodel_hf_api.py
+
+python 3.EmbeddedModels/3_embedding_hf_local.py
+
+
+#textLoaders
+
+langchain-community
+pip install langchain-community
+
+#PyPDFLoader
+pip install pypdf 
+
+
