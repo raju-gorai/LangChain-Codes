@@ -1,0 +1,9 @@
+Generative AI (GenAI) is a subset of artificial intelligence that creates new, original content—such as text, images, code, audio, and video—in response to user prompts.  Unlike traditional AI, which classifies or analyzes existing data, GenAI learns patterns from vast, diverse datasets to generate novel outputs that mimic human creativity and cognition. 
+
+The technology operates through deep learning models, particularly Large Language Models (LLMs) and Generative Adversarial Networks (GANs), which use neural networks to encode information and predict statistically likely responses.  This process typically involves unsupervised learning, where models identify structures in unlabeled data, and can be further refined through fine-tuning on specific datasets to perform specialized tasks. 
+
+Key characteristics and implications include:
+
+Content Creation: Tools like ChatGPT (text), DALL-E (images), and GitHub Copilot (code) exemplify GenAI’s ability to produce multi-modal content. 
+Business Impact: It enhances productivity by automating routine knowledge work, accelerating product prototyping, and improving decision-making through data analysis. 
+Limitations: GenAI cannot generate truly novel ideas outside its training data and requires human oversight to mitigate risks such as hallucinations, bias, and copyright infringement.
